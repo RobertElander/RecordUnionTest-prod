@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/RobertElander/RecordUnionTest",
-  "name": "RecordUnionTest",
+  "name": "Record",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
